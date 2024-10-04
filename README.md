@@ -1,0 +1,2 @@
+# houzez-add-and-search-multiple-beds-baths-garage
+I did houzez theme customization, in this task client wants to add multiple beds, baths and garages while adding or updating the listings. And he also wants the muliple beds, baths and garages also appear in search functionality. for example if a listing has 2 and 4 bedrooms and user selects 2 or 4 bedroom and search then this listing should appear
